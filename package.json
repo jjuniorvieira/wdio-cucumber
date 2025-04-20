@@ -1,0 +1,24 @@
+{
+  "name": "wdio-cucumber-local",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjuniorvieira/wdio-cucumber.git"
+  },
+  "keywords": [
+    "webdriverio",
+    "javascript",
+    "cucumber"
+  ],
+  "author": "jjunior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjuniorvieira/wdio-cucumber/issues"
+  },
+  "homepage": "https://github.com/jjuniorvieira/wdio-cucumber#readme"
+}
